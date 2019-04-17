@@ -246,7 +246,7 @@ def norm_xsec_bscatter_sphere(D, lam, K=0.93):
  
     Thermal noise power.
     
-    From CSU Radar Meteorology notes, AT741
+   
     
     INPUT::
     -----
